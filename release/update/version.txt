@@ -1,0 +1,8 @@
+{
+    "description":"发布 v1.8，可识别转换更多订阅格式，大幅提升测速限能，取消导入300服务器上限，测速服务器上限可自定义",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.8"
+}
